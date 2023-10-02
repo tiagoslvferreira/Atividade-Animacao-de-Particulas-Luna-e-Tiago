@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 29c1a25146f6a254a87bac6ddfaaf636
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 195
+        width: 138
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a16e2fbb296b9449afb7092b626085
+      internalID: 591263120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 167
+        width: 142
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28935c6564a42d042ae6ef1155cad5fd
+      internalID: -807396509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 101
+        width: 66
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374131a13da9b14439b3b511f4948620
+      internalID: -748152268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 102
+        width: 55
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9654de530f5c85948ae1345954a123ff
+      internalID: -407648528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 99
+        width: 98
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc0560d2ed4194593dab3cef3cc22e
+      internalID: 1717304696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 102
+        width: 166
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f11c470d080d84c94f13777c1ca1fb
+      internalID: -383316116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 105
+        width: 124
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a257ab105b4973944b867b41990fb30d
+      internalID: -1264183798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_0: 591263120
+      conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_1: -807396509
+      conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_2: -748152268
+      conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_3: -407648528
+      conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_4: 1717304696
+      conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_5: -383316116
+      conjunto-de-arte-de-pixel-de-log-de-arvore-coleta-de-pilha-de-madeira-madeira-empilhada-crua_418367-475-removebg-preview_6: -1264183798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
